@@ -1,5 +1,5 @@
 name: $(Date:yyyyMMdd)$(Rev:.r)
-
+open file
 trigger:
   branches:
     include:
